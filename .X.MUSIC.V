@@ -1,0 +1,1 @@
+ManauxMan.speakerMan.speakerguardsMan.NCore;
